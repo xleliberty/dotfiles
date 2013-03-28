@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/sites_web/ppu.eliberty.fr/releases/20121030075619'
+let g:netrw_dirhist_2='/home/sites_web/ppu.eliberty.fr/current'
